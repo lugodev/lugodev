@@ -24,4 +24,7 @@ These are my 10 life commandments:
 ### Connect with me ❤️
 [Personal website](https://lugodev.com) ꞏ [Blog](https://medium.com/@lugodev) ꞏ [My podcast](https://lugodev.com/podcast) ꞏ [Telegram channel](https://t.me/LugodevChannel) ꞏ [Youtube channel](https://www.youtube.com/channel/UCS-cWLGwGoijpnmBrzFgJzA) ꞏ [News](https://lugodev.com/news) ꞏ [Stack](https://lugodev.com/stack) ꞏ [Contact me](https://lugodev.com/contact)
 
+### My tech stack
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lugodev/my-stack)
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51FNRV)
