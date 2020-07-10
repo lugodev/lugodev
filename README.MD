@@ -1,9 +1,9 @@
 ### Who am I 🙌
-Hi 👋, I'm Carlos Lugones, a.k.a. Lugodev, I'm a cuban software engineer, entrepreneur and artist.
+Hi 👋, I'm Carlos Lugones, a.k.a. Lugodev, I'm a Cuban software engineer, entrepreneur and artist.
 
 ### What I do 💻
 My mission is to improve the lifes of millions of people.
-I believe that in life the only thing that matters what you do for others.
+I believe that in life the only thing that matters is what you do for others.
 
 ### What I believe in 🧘
 These are my 10 life commandments:
