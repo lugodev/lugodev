@@ -1,5 +1,3 @@
-# Carlos Lugones
-
 ### Who am I 🙌
 Hi 👋, I'm Carlos Lugones, a.k.a. Lugodev, I'm a cuban software engineer, entrepreneur and artist.
 
