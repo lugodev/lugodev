@@ -1,9 +1,8 @@
 ### Who am I 🙌
-Hi 👋, I'm Carlos Lugones, a.k.a. Lugodev, I'm a Cuban software engineer, entrepreneur and artist.
+Creator of companies and projects, materializer of ideas. Software engineer, entrepreneur, communicator and artist.
 
 ### What I do 💻
-My mission is to improve the lifes of millions of people.
-I believe that in life the only thing that matters is what you do for others.
+I'm dedicated to creation. I'm continually creating something and I strive to make it useful. From companies, projects and software platforms. My passion is turning ideas into reality, ideas that change people's lives. In addition to all that, since it is not comfortable for me to do it in secret, I am learning to communicate my creation process, together with my teams. I tell you on my podcast, newsletter, blog and YouTube channel. I feel that telling what creators live and how the path is not so simple or predictable, it's something that is valuable to others.
 
 ### What I believe in 🧘
 These are my 10 life commandments:
@@ -22,7 +21,7 @@ These are my 10 life commandments:
 [CubaPod](https://cubapod.net) ꞏ [CubaPodBot](https://t.me/CubaPodBot) ꞏ [Signatures](https://signatures.lugodev.com) ꞏ [Ofendiditos.club](https://ofendiditos.club)
 
 ### Connect with me ❤️
-[Personal website](https://lugodev.com) ꞏ [Blog](https://medium.com/@lugodev) ꞏ [My podcast](https://lugodev.com/podcast) ꞏ [Telegram channel](https://t.me/lugodev) ꞏ [Youtube channel](https://www.youtube.com/channel/UCS-cWLGwGoijpnmBrzFgJzA) ꞏ [News](https://lugodev.com/news) ꞏ [Stack](https://lugodev.com/stack) ꞏ [Contact me](https://lugodev.com/contact)
+[Personal website](https://lugodev.com) ꞏ [Blog](https://medium.com/@lugodev) ꞏ [My podcast](https://lugodev.com/podcast) ꞏ [Newsletter](https://eepurl.com/hb8ZOr) ꞏ [Telegram channel](https://t.me/lugodev) ꞏ [Youtube channel](https://www.youtube.com/channel/UCS-cWLGwGoijpnmBrzFgJzA) ꞏ [News](https://lugodev.com/news) ꞏ [Contact me](https://lugodev.com/contact)
 
 ### My tech stack
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lugodev/my-stack)
