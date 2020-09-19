@@ -18,7 +18,7 @@ These are my 10 life commandments:
 - Don't carry absurd grudges, forgive yourself and others
 
 ### Projects 🚀
-[CubaPod](https://cubapod.net) ꞏ [CubaPodBot](https://t.me/CubaPodBot) ꞏ [Signatures](https://signatures.lugodev.com) ꞏ [Ofendiditos.club](https://ofendiditos.club)
+[CubaPod](https://cubapod.net) ꞏ [Distripod](https://distripod.com) ꞏ [Liduco](https://liduco.com) ꞏ [Flowycart](https://flowycart.com) ꞏ [Signatures](https://signatures.lugodev.com) ꞏ [Ofendiditos.club](https://ofendiditos.club)
 
 ### Connect with me ❤️
 [Personal website](https://lugodev.com) ꞏ [Blog](https://medium.com/@lugodev) ꞏ [My podcast](https://lugodev.com/podcast) ꞏ [Newsletter](https://eepurl.com/hb8ZOr) ꞏ [Telegram channel](https://t.me/lugodev) ꞏ [Youtube channel](https://www.youtube.com/channel/UCS-cWLGwGoijpnmBrzFgJzA) ꞏ [News](https://lugodev.com/news) ꞏ [Contact me](https://lugodev.com/contact)
