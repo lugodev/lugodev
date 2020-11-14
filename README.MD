@@ -23,8 +23,50 @@ These are my 10 life commandments:
 ### Incoming projects 👷‍♂️
 [Distripod](https://distripod.com) ꞏ [Liduco](https://liduco.com) ꞏ [Flowycart](https://flowycart.com)
 
+### My stuff
+[Personal website](https://lugodev.com) ꞏ [My podcast](https://lugodev.com/podcast) ꞏ [Newsletter](https://eepurl.com/hb8ZOr) ꞏ [Contact me](https://lugodev.com/contact)
+
 ### Connect with me ❤️
-[Personal website](https://lugodev.com) ꞏ [Blog](https://medium.com/@lugodev) ꞏ [My podcast](https://lugodev.com/podcast) ꞏ [Newsletter](https://eepurl.com/hb8ZOr) ꞏ [Telegram channel](https://t.me/lugodev) ꞏ [Youtube channel](https://www.youtube.com/channel/UCS-cWLGwGoijpnmBrzFgJzA) ꞏ [News](https://lugodev.com/news) ꞏ [Contact me](https://lugodev.com/contact)
+
+<!-- discord -->
+<a href="https://link.lugodev.com/discord" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/discord.png" alt="Discord" height="30" width="30" />
+</a>
+
+<!-- telegram -->
+<a href="https://link.lugodev.com/telegram" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/telegram.png" alt="Telegram" height="30" width="30" />
+</a>
+
+<!-- youtube -->
+<a href="https://link.lugodev.com/youtube" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/youtube.png" alt="Youtube" height="30" width="30" />
+</a>
+
+<!-- twitter -->
+<a href="https://link.lugodev.com/twitter" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/twitter.png" alt="Twitter" height="30" width="30" />
+</a>
+
+<!-- linkedin -->
+<a href="https://link.lugodev.com/linkedin" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/linkedin.png" alt="LinkedIn" height="30" width="30" />
+</a>
+
+<!-- instagram -->
+<a href="https://link.lugodev.com/instagram" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/instagram.png" alt="LinkedIn" height="30" width="30" />
+</a>
+
+<!-- blog -->
+<a href="https://link.lugodev.com/blog" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/medium.png" alt="Blog" height="30" width="30" />
+</a>
+
+<!-- podcast -->
+<a href="https://link.lugodev.com/podcast" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/podcast.png" alt="Podcast" height="30" width="30" />
+</a>
 
 ### My tech stack
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lugodev/my-stack)
