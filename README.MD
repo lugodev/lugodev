@@ -24,7 +24,7 @@ These are my 10 life commandments:
 [Distripod](https://distripod.com) ꞏ [Liduco](https://liduco.com) ꞏ [Flowycart](https://flowycart.com)
 
 ### My stuff 📦
-[Website](https://lugodev.com) ꞏ [Blog](https://link.lugodev.com/blog) ꞏ [Podcast](https://link.lugodev.com/podcast) ꞏ [Newsletter](https://link.lugodev.com/newsletter) ꞏ [Contact](mailto:contact@lugodev.com)
+[Website](https://lugodev.com) ꞏ [Blog](https://link.lugodev.com/blog) ꞏ [Podcast](https://link.lugodev.com/podcast) ꞏ [Newsletter](https://link.lugodev.com/newsletter) ꞏ [Contact](mailto:contact@lugodev.com) ꞏ [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lugodev/my-stack)
 
 ### Connect with me ❤️
 
@@ -57,9 +57,5 @@ These are my 10 life commandments:
 <a href="https://link.lugodev.com/instagram" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/instagram.png" alt="LinkedIn" height="30" width="30" />
 </a>
-
-<a frameborder="0" data-theme="light" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/e9f8d566dc45dd9e81232d1fc1c807"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lugodev/my-stack)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51FNRV)
