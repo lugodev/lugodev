@@ -28,6 +28,11 @@ These are my 10 life commandments:
 
 ### Connect with me ❤️
 
+<!-- dev -->
+<a href="https://dev.to/lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/dev.png" alt="Dev" height="30" width="30" />
+</a>
+
 <!-- discord -->
 <a href="https://link.lugodev.com/discord" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/discord.png" alt="Discord" height="30" width="30" />
