@@ -33,11 +33,6 @@ These are my 10 life commandments:
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/dev.png" alt="Dev" height="30" width="30" />
 </a>
 
-<!-- discord -->
-<a href="https://link.lugodev.com/discord" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/discord.png" alt="Discord" height="30" width="30" />
-</a>
-
 <!-- telegram -->
 <a href="https://link.lugodev.com/telegram" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/telegram.png" alt="Telegram" height="30" width="30" />
