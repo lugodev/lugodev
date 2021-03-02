@@ -28,34 +28,34 @@ These are my 10 life commandments:
 
 ### Connect with me ❤️
 
-<!-- dev -->
-<a href="https://dev.to/lugodev" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/dev.png" alt="Dev" height="30" width="30" />
-</a>
-
-<!-- telegram -->
-<a href="https://link.lugodev.com/telegram" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/telegram.png" alt="Telegram" height="30" width="30" />
-</a>
-
 <!-- youtube -->
-<a href="https://link.lugodev.com/youtube" target="blank">
+<a href="https://youtube.com/c/CarlosLugones" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/youtube.png" alt="Youtube" height="30" width="30" />
 </a>
 
+<!-- telegram -->
+<a href="https://t.me/lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/telegram.png" alt="Telegram" height="30" width="30" />
+</a>
+
 <!-- twitter -->
-<a href="https://link.lugodev.com/twitter" target="blank">
+<a href="https://twitter.com/lugodev" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/twitter.png" alt="Twitter" height="30" width="30" />
 </a>
 
 <!-- linkedin -->
-<a href="https://link.lugodev.com/linkedin" target="blank">
+<a href="https://lugodev.com/in/linkedin" target="blank">
 <img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/linkedin.png" alt="LinkedIn" height="30" width="30" />
 </a>
 
-<!-- instagram -->
-<a href="https://link.lugodev.com/instagram" target="blank">
-<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/instagram.png" alt="LinkedIn" height="30" width="30" />
+<!-- vero -->
+<a href="https://vero.co/lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/vero.png" alt="Vero" height="30" width="30" />
+</a>
+
+<!-- angellist -->
+<a href="https://angel.co/u/lugodev" target="blank">
+<img align="center" src="https://github.com/lugodev/lugodev/raw/master/assets/angellist.png" alt="AngelList" height="30" width="30" />
 </a>
 
 ### Tech stack
