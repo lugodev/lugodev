@@ -17,14 +17,14 @@ These are my 10 life commandments:
 - Observe yourself and your thoughts
 - Don't carry absurd grudges, forgive yourself and others
 
-### Current projects 🚀
-[CubaPod](https://cubapod.net) ꞏ [CubanValley](https://cubanvalley.com) ꞏ [Ofendiditos.club](https://ofendiditos.club) ꞏ [Signatures](https://signatures.lugodev.com)
+### Projects/startups in production 🚀
+[CubaPod](https://cubapod.net) ・ [Ofendiditos.club](https://ofendiditos.club) ・ [Signatures](https://signatures.lugodev.com)
 
-### Incoming projects 👷‍♂️
-[Distripod](https://distripod.com) ꞏ [Liduco](https://liduco.com) ꞏ [Flowycart](https://flowycart.com)
+### Incoming projects/startups 👷‍♂️
+[Liduco](https://liduco.com) ・ [FlowyCart](https://flowycart.com) ・ [TelegramPost.xyz](https://telegrampost.xyz/) ・ [Distripod](https://distripod.com)
 
 ### My stuff 📦
-[Website](https://lugodev.com) ꞏ [Blog](https://link.lugodev.com/blog) ꞏ [Podcast](https://link.lugodev.com/podcast) ꞏ [Newsletter](https://link.lugodev.com/newsletter) ꞏ [Contact](mailto:contact@lugodev.com)
+[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [Podcast](https://lugodev.com/podcast) ・ [Newsletter](https://newsletter.lugodev.com)
 
 ### Connect with me ❤️
 
