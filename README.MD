@@ -21,10 +21,10 @@ These are my 10 life commandments:
 [CubaPod](https://cubapod.net) ・ [Ofendiditos.club](https://ofendiditos.club) ・ [Signatures](https://signatures.lugodev.com)
 
 ### Incoming projects/startups 👷‍♂️
-[Liduco](https://liduco.com) ・ [TelegramPost.xyz](https://telegrampost.xyz/) ・ [Distripod](https://distripod.com)
+[Liduco](https://liduco.com) ・ [TelegramPost.xyz](https://telegrampost.xyz/)
 
 ### My stuff 📦
-[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [Podcast](https://lugodev.com/podcast) ・ [Newsletter](https://newsletter.lugodev.com)
+[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [LMC Podcast](https://lugodev.com/lmc) ・ [Daily Podcast](https://lugodev.com/lmc) ・ [Newsletter](https://newsletter.lugodev.com)
 
 ### Connect with me ❤️
 
