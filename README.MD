@@ -1,3 +1,5 @@
+<img src="https://github.com/lugodev/lugodev/raw/master/assets/cover.png" alt="Telegram" width="100%" />
+
 ### Who am I 🙌
 Creator of companies and projects, materializer of ideas. Software engineer, entrepreneur, communicator and artist.
 
