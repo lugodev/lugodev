@@ -26,7 +26,7 @@ These are my 10 life commandments:
 [Liduco](https://liduco.com) ・ [TelegramPost.xyz](https://telegrampost.xyz/)
 
 ### My stuff 📦
-[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [LMC Podcast](https://lugodev.com/lmc) ・ [Daily Podcast](https://lugodev.com/lmc) ・ [Newsletter](https://newsletter.lugodev.com)
+[Website](https://lugodev.com) ・ [Blog](https://lugodev.medium.com) ・ [LMC Podcast](https://lugodev.com/lmc) ・ [Daily Podcast](https://lugodev.com/daily) ・ [Newsletter](https://newsletter.lugodev.com)
 
 ### Connect with me ❤️
 
