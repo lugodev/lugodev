@@ -23,7 +23,7 @@ These are my 10 life commandments:
 [YourLink](https://link.yourlink.club) ・ [CubaPod](https://cubapod.net) ・ [Ofendiditos.club](https://ofendiditos.club) ・ [Signatures](https://signatures.lugodev.com)
 
 ### Telegram bots in production 🚀
-[ForwarderBot](https://t.me/GroupToChannelBot) ・ [Reading List Bot](https://t.me/ToReadingListBot) ・ [CubaPodBot](https://t.me/CubaPodBot)
+[ForwarderBot](https://t.me/ForwarderGeniusBot) ・ [Reading List Bot](https://t.me/ToReadingListBot) ・ [CubaPodBot](https://t.me/CubaPodBot)
 
 ### Incoming projects/startups 👷‍♂️
 [Liduco](https://liduco.com) ・ [TelegramPost.xyz](https://telegrampost.xyz/)
